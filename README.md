@@ -9,7 +9,7 @@ An Multi purpose Bot Which Can :-
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kuttu22/rename-v5)
 
-If you Find Any Bugs Or Want to Give Your Feedbacks Then Kindly Contact Me Through [Telegram ](https://telegram.dog/No_OnE_Kn0wS_Me) 
+If you Find Any Bugs Or Want to Give Your Feedbacks Then Kindly Contact Me Through [Telegram ](https://t.me/Mo_Tech_Group) 
 Also Support Our Channel [Mo tech](https://t.me/Mo_Tech_Group) 
 
 ## Credits, and Thanks to Beloved Developers ;
